@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm alcastronic
 
-A pentester and part time infosec student [@FAU](https://www.fau.de/studiengang/informatik-it-sicherheit-bsc/) with [OpenC3s](https://open-c3s.de/).
+A security analyst and part time infosec student [@FAU](https://www.fau.de/studiengang/informatik-it-sicherheit-bsc/) with [OpenC3s](https://open-c3s.de/).
 
 
 
